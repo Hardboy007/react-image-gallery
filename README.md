@@ -25,7 +25,7 @@ A modern image gallery app built with React that fetches images from an API and 
 ## 📂 Installation
 
 ```bash
-git clone https://github.com/your-username/react-image-gallery.git
+git clone https://github.com/Hardboy007/react-image-gallery.git
 cd react-image-gallery
 npm install
 npm run dev
