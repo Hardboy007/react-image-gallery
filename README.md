@@ -20,11 +20,7 @@ A modern image gallery app built with React that fetches images from an API and 
 - Optimized image sizes
 - Smooth loading transitions
 
-## 📸 Screenshots
-(Add 2–3 screenshots here)
 
-## 🔗 Live Demo
-(Add link if deployed)
 
 ## 📂 Installation
 
