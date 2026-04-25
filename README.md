@@ -20,7 +20,7 @@ A modern image gallery app built with React that fetches images from an API and 
 - Optimized image sizes
 - Smooth loading transitions
 
-
+## Live: https://galerix.netlify.app/
 
 ## 📂 Installation
 
